@@ -1,1 +1,1 @@
-# TransparentLogin https://glosyu.github.io/TransparentLogin/ // Responsive
+TransparentLogin https://glosyu.github.io/TransparentLogin/ // Responsive
